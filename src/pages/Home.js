@@ -35,7 +35,7 @@ const Home = () => {
 
 
 />
-    <Typography variant='h3'fontFamily='Luckiest Guy' color='#004d40'>
+    <Typography variant='h1'fontFamily='Luckiest Guy' color='#004d40'>
     PokeDex
     </Typography>
    </Box>
