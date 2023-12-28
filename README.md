@@ -1,9 +1,9 @@
-# pokedex-handy pokemon data application
+# Pokedex-handy pokemon data application
 
 ## View hosted project
 https://pokedex-peach-three.vercel.app/
 
-## Getting Started with Create React App
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
